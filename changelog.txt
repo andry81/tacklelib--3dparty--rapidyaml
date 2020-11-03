@@ -1,0 +1,9 @@
+2020.11.03:
+* new: patched sources fork at commit #364052771bc12a748fd42bcad13de7e7dc1999b0 (2020.11.03) from https://github.com/biojppm/rapidyaml/commits/master (https://github.com/biojppm/rapidyaml/commit/364052771bc12a748fd42bcad13de7e7dc1999b0 )
+
+2020.05.26:
+* fixed: std::align not supported by g++4.9
+
+2020.05.26:
+* new: changelog
+* new: initial patched sources fork at commit #ff200464342e5b42a3e2f8eb36d93cf2b02692ca (2020.04.26) from https://github.com/biojppm/rapidyaml/commits/master (https://github.com/biojppm/rapidyaml/commit/ff200464342e5b42a3e2f8eb36d93cf2b02692ca )
